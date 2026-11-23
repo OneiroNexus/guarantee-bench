@@ -1,0 +1,23 @@
+{
+  "title": "Guarantee Bench: Checking Statistical Guarantees on Scored Language-Model Answers with Synthetic Controls",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p>Aaron Michael Weis presents a synthetic reference benchmark for five published statistical procedures concerning scored language-model answers. Exact finite-sample checks, seeded simulations and mutation tests distinguish marginal coverage, conditional risk, retention and implementation behavior. All experiment inputs in this edition are invented.</p><p>The research and benchmark design are by Aaron Michael Weis. Claude assisted with drafting and coding the earlier work. Codex prepared and checked this synthetic edition. The manuscript is CC BY 4.0 and the original accompanying code is MIT licensed.</p>",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "affiliation": "Oneiron Holdings LLC",
+      "orcid": "0009-0002-1906-148X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "0.1.0",
+  "access_right": "open",
+  "keywords": [
+    "conformal prediction",
+    "statistical calibration",
+    "synthetic benchmark",
+    "model evaluation",
+    "mutation testing"
+  ]
+}

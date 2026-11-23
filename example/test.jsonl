@@ -1,0 +1,2 @@
+{"id":"case-one","group":"g","claims":[{"text":"synthetic-A","score":0.4,"correct":false},{"text":"synthetic-B","score":0.6,"correct":true}]}
+{"id":"case-two","group":"g","claims":[{"text":"synthetic-C","score":0.1,"correct":false},{"text":"synthetic-D","score":0.2,"correct":true}]}

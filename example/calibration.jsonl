@@ -1,0 +1,4 @@
+{"id":"cal-a","group":"g","claims":[{"score":0.1,"correct":false},{"score":0.9,"correct":true}]}
+{"id":"cal-b","group":"g","claims":[{"score":0.2,"correct":false},{"score":0.8,"correct":true}]}
+{"id":"cal-c","group":"g","claims":[{"score":0.3,"correct":false},{"score":0.7,"correct":true}]}
+{"id":"cal-d","group":"g","claims":[{"score":0.4,"correct":false},{"score":0.6,"correct":true}]}
